@@ -26,7 +26,11 @@ An AI-powered travel planner that generates day-wise itineraries based on user i
 
 ## 📸 Screenshots
 
-(Add your app screenshot here after uploading)
+### 🖥️ Application UI
+![UI](travel-ui.png)
+
+### 📊 Generated Travel Plan Output
+![Output](travel-output.png)
 
 ---
 
